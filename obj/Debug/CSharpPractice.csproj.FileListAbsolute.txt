@@ -1,0 +1,6 @@
+D:\Users\Dev_WL4MA\source\repos\CSharpPractice\bin\Debug\CSharpPractice.exe.config
+D:\Users\Dev_WL4MA\source\repos\CSharpPractice\bin\Debug\CSharpPractice.exe
+D:\Users\Dev_WL4MA\source\repos\CSharpPractice\bin\Debug\CSharpPractice.pdb
+D:\Users\Dev_WL4MA\source\repos\CSharpPractice\obj\Debug\CSharpPractice.csproj.CoreCompileInputs.cache
+D:\Users\Dev_WL4MA\source\repos\CSharpPractice\obj\Debug\CSharpPractice.exe
+D:\Users\Dev_WL4MA\source\repos\CSharpPractice\obj\Debug\CSharpPractice.pdb
